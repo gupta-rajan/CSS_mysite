@@ -80,14 +80,20 @@ a:hover{
 
 .top-cloud{
     position: absolute;
-    top: 5%;
+    top: 15%;
     right: 15%;
+    width: 10%;
 }
 
 .bottom-cloud{
     position: absolute;
     left:15%;
-    bottom:40%;
+    bottom:30%;
+    width: 10%;
+}
+
+.big-mountain {
+    width: 50%;
 }
 
 .skill-row{
